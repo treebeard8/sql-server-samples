@@ -2,7 +2,7 @@
 
 # The *trigger* specifies what triggers this pipeline to run automatically. In this case: a *commit* against *main*
 trigger:
-- main
+- master
 
 # The *pool* specifies which VM image to use for executing this pipeline.
 pool:
